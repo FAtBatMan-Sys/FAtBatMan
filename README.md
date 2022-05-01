@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZoomFatZooM
 - 👀 I’m interested in coding, cyber security 
-- 🌱 I’m currently learning Python, kali linux, Java, Html&Css 
+- 🌱 I’m currently learning Python, kali linux, Html&Css 
 - 📫 How to reach me zoomfatzoom@gmail.com
 
 <!---
